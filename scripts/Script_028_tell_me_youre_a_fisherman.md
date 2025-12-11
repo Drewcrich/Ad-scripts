@@ -1,13 +1,10 @@
 # Script 028 – "Tell Me You're a Fisherman Without Telling Me" (Trend Format)
 
-**Species:** Walleye (implied, not shown)  
+**Species:** Walleye (implied)  
 **Style:** UGC Trend Participation (Quick Cuts + Reveal)  
-**Platforms:** TikTok, YouTube Shorts, Instagram Reels  
-**Concept:** High-Potential Format #2 - "Tell Me You're a Fisherman Without Telling Me"
+**Platforms:** TikTok, YouTube Shorts, Instagram Reels
 
 **Total Length:** 25 seconds (15s storyboard + 10s clip)
-
-**Creative Approach:** Leverages popular TikTok trend format. No dialogue - just relatable actions that fishermen will recognize. Quick cuts keep energy high. Final reveal ties it to PrimeBite naturally. Highly tag-worthy and shareable.
 
 ---
 
@@ -56,27 +53,15 @@ Soft background music plays (lower volume so his voice is clear). Leave clean sp
 
 **Character Note:** Create character in Sora 2 for this clip.
 
-**Dialogue Word Count:** 26 words (within 30-word limit for 10s)
-
 ---
 
 ## CapCut Instructions
 
 ### Storyboard 1 (0-15s):
 
-**Music:**
+**Music:** Use trending TikTok sound (upbeat, recognizable) or "Tell me you're [X] without telling me" audio
 
-- Use trending TikTok sound (upbeat, recognizable)
-- OR use trending audio: "Tell me you're [X] without telling me" sound
-- Keep volume consistent throughout
-
-**Text Overlays:**
-
-- At 0s (start of Storyboard): Large text center-screen: "Tell me you're a fisherman without telling me 🎣"
-  - Display from 0s to 3s, then fade out
-  - Font: Bold, white text with black outline
-  - Position: Center or upper-center
-- No additional overlays during scenes - let the actions speak for themselves
+**Text Overlay at 0s:** "Tell me you're a fisherman without telling me 🎣" (center-screen, bold white text with black outline, display 0s-3s, fade out)
 
 ### Clip 2 (15-25s):
 
@@ -85,42 +70,23 @@ Soft background music plays (lower volume so his voice is clear). Leave clean sp
 - At 16s: "🤖 AI-Generated Video"
 - At 18s: "✅ Real Bite Windows"
 - At 21s: "📱 Download PrimeBite"
-- Font: Bold, white text with black outline
-- Position: Center-bottom or lower-third
 
-**Screenshot Overlay:**
-
-- Show small Today Tab screenshot in top-right corner from 18s-24s
-- Size: ~25-30% of screen width
-- Fade in at 18s (0.3s), fade out at 24s (0.3s)
+**Screenshot:** Today Tab in top-right corner from 18s-24s (~25-30% width)
 
 ### Stitching:
 
-- Import Storyboard 1 (15s) and Clip 2 (10s) into CapCut
-- Stitch in sequence: Storyboard 1 → Clip 2
-- Add 0.2s crossfade transition between them
-- Add trending music to Storyboard 1 (full volume)
-- Lower music volume during Clip 2 so dialogue is clear
-- Add text overlays as specified
-- Export vertical 9:16, 1080x1920 resolution
-
-**Total Video Length:** 25 seconds (15s + 10s)
+- Import Storyboard 1 (15s) and Clip 2 (10s)
+- Add 0.2s crossfade transition between clips
+- Full volume music on Storyboard 1, lower volume during Clip 2 for dialogue
+- Export vertical 9:16, 1080x1920
 
 ---
 
 ## Title/Caption
 
-**Primary (Trend Focus):**
+**Primary:** "Tell me you're a fisherman without telling me 🎣⏰ #fishing #walleye"
 
-"Tell me you're a fisherman without telling me 🎣⏰ #fishing #walleye"
-
-**Alternative 1:**
-
-"If you know, you know 🎣 #fishinglife #primebite"
-
-**Alternative 2:**
-
-"Fishermen will understand all of these 🎣 Tag your fishing buddy #walleyefishing"
+**Alternative:** "If you know, you know 🎣 #fishinglife #primebite"
 
 ---
 
@@ -132,140 +98,13 @@ Soft background music plays (lower volume so his voice is clear). Leave clean sp
 
 ## Performance Notes
 
-### Testing Focus:
+Testing focus: First trend format participation, no dialogue in main content, quick cuts (6 scenes/15s), tag mechanics built in.
 
-This script tests:
-
-- Trend format participation - Leveraging existing viral TikTok format
-- No dialogue structure - Actions only, no talking head
-- Quick cuts - 6 scenes in 15 seconds (different from typical format)
-- Relatability over education - "You'll get it if you're a fisherman"
-- Tag-worthiness - Designed to make people tag fishing buddies
-- Music-driven - Trending sound carries the video
-
-### Why This Will Perform:
-
-✅ Trend integration - "Tell me without telling me" is proven viral format  
-✅ Highly relatable - Every scene will resonate with fishermen  
-✅ Quick pacing - 2-3s per scene keeps attention  
-✅ No explanation needed - Actions speak for themselves  
-✅ Tag-worthy - People will tag fishing buddies who do these things  
-✅ Fun/light - Different tone from typical educational scripts  
-✅ Shareable - Format encourages shares to fishing groups  
-✅ Pattern interrupt - Quick cuts are different from talking-head format
-
-### Expected Performance:
-
-- **Target:** 2,000+ views (trend participation boosts discovery)
-- High shares (trend formats are inherently shareable)
-- High tag rate (people will tag fishing friends)
-- Strong completion rate (quick pacing holds attention)
-- Viral potential (if trend is currently hot)
-
----
-
-## Viral Mechanics
-
-### Why This Format Works:
-
-- **Recognition:** Fishermen see themselves in these habits
-- **Belonging:** Creates "you get it or you don't" in-group feeling
-- **Tag mechanics:** People tag friends who do these exact things
-- **Trend leverage:** Existing format = built-in discovery
-- **No barrier to entry:** No education needed, just recognition
-- **Shareability:** Perfect for fishing group chats and forums
-
-### Comment Bait:
-
-- "The 4:45 AM alarm one is too real 😂"
-- "Canceling plans for a 6:30 window 💯"
-- "Tag someone who does all of these"
-- "The driving past lakes one 😭"
-
----
-
-## Notes for Sora Generation
-
-### Key Reminders:
-
-✅ Storyboard format for quick scene changes  
-✅ 15 seconds total with 6 scenes  
-✅ No dialogue in storyboard (just actions)  
-✅ Music specified (trending upbeat sound)  
-✅ Simple, focused scene descriptions  
-✅ AI transparency in separate clip  
-✅ Keep prompts SHORT (don't over-detail)
-
-### Visual Consistency:
-
-- All scenes should feel like the same person's life
-- Consistent lighting: Early morning/dawn theme
-- Same phone throughout (consistency)
-- Truck interior shots should match
-- Keep it realistic and relatable (not cinematic)
-
-### Trend Timing:
-
-- Check if "Tell me without telling me" trend is currently active on TikTok
-- If trend has faded, this format still works but may perform differently
-- Consider using whatever fishing-related trend is currently hot
-
----
-
-## Alternative Scenes (If Needed)
-
-If any scenes don't generate well in Sora, swap with these:
-
-- **Alt Scene:** Close-up of weather app open, then switching to PrimeBite app
-- **Alt Scene:** Tackle box being organized at 3 AM with phone nearby showing bite windows
-- **Alt Scene:** Hands holding phone with fishing forum post: "When do you go?" Reply: "When the app says to."
-- **Alt Scene:** Calendar with multiple days crossed out, one day circled with "MAJOR WINDOW 8AM" written
-
----
-
-## Strategic Notes
-
-### Content Mix:
-
-- This is UGC format (maintaining 70% UGC / 30% Cinematic ratio)
-- Concept 07 (UGC Fisherman Testimonial) but with trend integration
-
-### Testing Hypothesis:
-
-Trend formats may outperform standard talking-head scripts due to:
-
-- Built-in discovery (trend algorithm boost)
-- Higher shareability (trend participation)
-- Tag mechanics (viral loop)
-- Lower barrier to entry (no education needed)
-
-### If This Performs Well:
-
-- Create more trend-integrated scripts
-- Stay current with TikTok fishing trends
-- Consider other "Tell me you're [X]" variations for different species/situations
-
-### If This Underperforms:
-
-- May indicate trend has faded
-- Audience may prefer educational/story-driven content
-- Return to proven formats (Scripts 014, 015, 019 structure)
+Hypothesis: Trend integration + relatable actions = high shareability and tag rate. Target 2,500+ views.
 
 ---
 
 ## 📊 Analytics & Testing Notes
-
-### Testing Focus
-
-This script tests:
-
-- High-Potential Format #2 - "Tell Me You're a Fisherman" trend
-- No dialogue format - Actions and music only (new for this channel)
-- Quick cuts - 6 scenes in 15s (different pacing)
-- Trend participation - Leveraging existing viral format
-- Relatability focus - Recognition over education
-
-**Hypothesis:** Trend integration + relatable content + tag mechanics = high viral potential
 
 ### Performance Tracking
 
@@ -282,23 +121,6 @@ Log in `analytics/shorts-log.csv`:
 - **Target tag rate:** High (designed for tagging)
 - **Compare to:** Scripts 014 (1,936 views), 019 (1,023 views)
 
-### Why This Script
-
-Based on analytics:
-
-✅ Walleye content performs well  
-✅ Relatable content drives engagement  
-✅ Different format = stands out  
-✅ Trend formats have proven viral potential
-
-**New elements:**
-
-🆕 Trend participation (first for this channel)  
-🆕 No dialogue in main content  
-🆕 Quick cut format (6 scenes in 15s)  
-🆕 Tag mechanics built in
-
 ---
 
-🎬 **Script 028 ready!** This format is designed to go viral through trend participation, relatability, and tag mechanics. Let me know if you want any adjustments! 🎣📱
-
+🎬 **Script 028 ready!** This trend format is designed to go viral through trend participation, relatability, and tag mechanics. 🎣📱
